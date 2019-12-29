@@ -1,0 +1,13 @@
+.root {
+	/*changes the background color of our pane to
+	 * steel blue, color code is in hexadecimal */
+	 -fx-background-color: #4682b4;
+}
+
+.controls {
+	/*changes the background color of our pane to
+	 * dark blue, color code is in hexadecimal */
+	 -fx-background-color: #34495e;
+	 -fx-border-radius: 10 10 10 10;
+	 -fx-background-radius: 10 10 10 10;
+}
