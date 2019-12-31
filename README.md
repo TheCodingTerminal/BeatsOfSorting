@@ -1,5 +1,5 @@
 # BeatsOfSorting
-A program to visualise and audiblize sort algorithms. Implemented in java, using JavaFX.
+A program to visualise and audiblize sorting algorithms. Implemented in java, using JavaFX.
 
 
 ## Build and Run
